@@ -1,0 +1,28 @@
+name: Projeto2020
+favicon: null
+layout_spectrum: 0.343468934064731
+typography_spectrum: 0.18981755804270506
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3856787569820881
+  lightness: 0.3257906374055892
+  saturation: 0.2756177585106343
+  rhythmicContrast: 0.20726265502162278
+purpose: []
